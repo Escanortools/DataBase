@@ -5,6 +5,16 @@
     "script": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/argus_def_collectorT.zip"
   },
   {
+    "name": "Vulcan Lionheart",
+    "background": "https://github.com/lazarusph/Img/raw/refs/heads/main/hllar5fh6w3h1.jpeg",
+    "script": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/balmond_def_collectorT.zip"
+  },
+  {
+    "name": "Celestial Rebel",
+    "background": "https://github.com/lazarusph/Img/raw/refs/heads/main/FB_IMG_1788591469634.jpg",
+    "script": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/sun_def_collectorT.zip"
+  },
+  {
     "name": "Ken",
     "background": "https://github.com/zetsuya05/others_2026/raw/refs/heads/main/chou_ken_mlbb_sf6_splash_art_by_dsfsdfsdfew134_dm4zqc7-pre.jpg",
     "script": "https://github.com/zetsuya05/june2026/raw/refs/heads/main/chou_basic_ken2.zip"
@@ -14,4 +24,5 @@
     "background": "https://github.com/zetsuya05/others_2026/raw/refs/heads/main/HJaanbrbMAAqP9T.jpg",
     "script": "https://github.com/zetsuya05/june2026/raw/main/paquito_def_ryu2.zip"
   },
+  {
 ]
