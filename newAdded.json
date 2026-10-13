@@ -1,5 +1,15 @@
 [
   {
+    "name": "Imperatrix Arashi",
+    "background": "https://raw.githubusercontent.com/missnapokita/anime_aug26/main/img/selena-obsidia-aspirants-skin-splash-art-v0-cbjo33hz24jh1.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/obsidia%20aspi.zip"
+  },
+  {
+    "name": "Silvebolt Raiko",
+    "background": "https://github.com/Mr-Nutcracker/splashdog/raw/main/selena-obsidia-aspirants-skin-splash-art-v0-ktl48a8z24jh1.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/bisaya/main/sauce/file/2026/sep/sele%20aspi.zip"
+  },
+  }
     "name": "Raiden Maru",
     "background": "https://github.com/lazarusph/Img/raw/refs/heads/main/v2ikao3ya7ch1.png",
     "script": "https://github.com/Mexi23/Aug_2026/raw/refs/heads/main/argus_def_collectorT.zip"
